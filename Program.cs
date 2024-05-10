@@ -4,16 +4,16 @@ class Program
 {
     static void Main()
     {
-        // Ввод первоначального массива строк
-        Console.WriteLine("Введите первоначальный массив строк через запятую и пробел:");
+        // Ввод массива строк
+        Console.WriteLine("Введите массив через запятую и пробел:");
         string input = Console.ReadLine();
         string[] initialArray = input.Split(new[] { ", " }, StringSplitOptions.None);
 
         // Формирование нового массива из строк длиной <= 3 символов
         string[] newArray = GetShortStringsArray(initialArray);
 
-        // Вывод нового массива
-        Console.WriteLine("Новый массив:");
+        // Вывод массива
+        Console.WriteLine("Результат:");
         foreach (string item in newArray)
         {
             Console.Write(item + " ");
