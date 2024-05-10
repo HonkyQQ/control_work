@@ -1,0 +1,15 @@
+D:\Моя информация\control_work\bin\Debug\net8.0\control_work.exe
+D:\Моя информация\control_work\bin\Debug\net8.0\control_work.deps.json
+D:\Моя информация\control_work\bin\Debug\net8.0\control_work.runtimeconfig.json
+D:\Моя информация\control_work\bin\Debug\net8.0\control_work.dll
+D:\Моя информация\control_work\bin\Debug\net8.0\control_work.pdb
+D:\Моя информация\control_work\obj\Debug\net8.0\control_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Моя информация\control_work\obj\Debug\net8.0\control_work.AssemblyInfoInputs.cache
+D:\Моя информация\control_work\obj\Debug\net8.0\control_work.AssemblyInfo.cs
+D:\Моя информация\control_work\obj\Debug\net8.0\control_work.csproj.CoreCompileInputs.cache
+D:\Моя информация\control_work\obj\Debug\net8.0\control_work.sourcelink.json
+D:\Моя информация\control_work\obj\Debug\net8.0\control_work.dll
+D:\Моя информация\control_work\obj\Debug\net8.0\refint\control_work.dll
+D:\Моя информация\control_work\obj\Debug\net8.0\control_work.pdb
+D:\Моя информация\control_work\obj\Debug\net8.0\control_work.genruntimeconfig.cache
+D:\Моя информация\control_work\obj\Debug\net8.0\ref\control_work.dll
